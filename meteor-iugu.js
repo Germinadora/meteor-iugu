@@ -1,3 +1,3 @@
 Meteor.startup(function() {
-	console.log "==== Usando o package do Iugu ===="
+	console.log("==== Usando o package do Iugu ====");
 });

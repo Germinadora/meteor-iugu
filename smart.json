@@ -4,6 +4,6 @@
   "homepage": "https://github.com/Germinadora/meteor-iugu",
   "author": "Blumpa Team <contato@germinadora.com> (http://germinadora.com)",
   "version": "0.0.1",
-  "git": "git@github.com:Germinadora/meteor-iugu.git",
+  "git": "https://github.com/Germinadora/meteor-iugu.git",
   "packages": {}
 }

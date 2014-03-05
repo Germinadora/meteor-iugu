@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "REPLACEME - What does this package (or the original one you're wrapping) do?"
+  summary: "This package intends to simplify the integration with a Meteor app and the Iugu payment API"
 });
 
 Package.on_use(function (api, where) {

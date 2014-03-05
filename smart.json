@@ -1,9 +1,9 @@
 {
   "name": "meteor-iugu",
-  "description": "REPLACEME - What does this package (or the original one you're wrapping) do?",
-  "homepage": "",
-  "author": "Your Name <your@email> (http://yoursite)",
+  "description": "This package intends to simplify the integration with a Meteor app and the Iugu payment API",
+  "homepage": "https://github.com/Germinadora/meteor-iugu",
+  "author": "Blumpa Team <contato@germinadora.com> (http://germinadora.com)",
   "version": "0.0.1",
-  "git": "",
+  "git": "git@github.com:Germinadora/meteor-iugu.git",
   "packages": {}
 }

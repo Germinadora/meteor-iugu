@@ -3,11 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files('meteor-iugu.js', ['client', 'server']);
-});
-
-Package.on_test(function (api) {
-  api.use('meteor-iugu');
-
-  api.add_files('meteor-iugu_tests.js', ['client', 'server']);
+  api.add_files('server/iugu_api.coffee', ['server']);
+  api.add_files('client/iugu.js', ['client']);
 });

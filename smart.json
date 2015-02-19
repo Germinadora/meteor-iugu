@@ -3,7 +3,7 @@
   "description": "This package intends to simplify the integration with a Meteor app and the Iugu payment API",
   "homepage": "https://github.com/Germinadora/meteor-iugu",
   "author": "Blumpa Team <contato@germinadora.com> (http://germinadora.com)",
-  "version": "0.0.4",
+  "version": "0.0.11",
   "git": "https://github.com/Germinadora/meteor-iugu.git",
   "packages": {}
 }

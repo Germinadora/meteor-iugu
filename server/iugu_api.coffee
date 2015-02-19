@@ -1,4 +1,4 @@
-@Iugu ?= {}
+Iugu = {}
 
 class Iugu.API
 
